@@ -5,7 +5,7 @@ Usage for mass account checker:
 * bash sbux.sh  
 * paste your list.txt using format ``email:pass``
 * run
-
+ 
 # Authors
 *  Andri Wahyudi (GitHub: ! [duckstroms](https://github.com/duckstroms))
 *  Stregh Streek  (GitHub: ! [streghstreek](https://github.com/streghstreek))
